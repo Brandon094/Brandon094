@@ -10,7 +10,7 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 - 👯 Estoy buscando colaborar en **Proyectos de Código Abierto**.
 - 🤔 Busco ayuda con proyectos de **Aprendizaje Profundo**.
 - 💬 Pregúntame sobre **JavaScript, Python y Desarrollo Web**.
-- 📫 Cómo contactarme: [brandon094@example.com](mailto:dazace94@gmail.com)
+- 📫 Cómo contactarme: [dazace94@gmail.com](mailto:dazace94@gmail.com)
 - 😄 Pronombres: Él
 - ⚡ Dato curioso: Me encanta el senderismo y la fotografía.
 
@@ -31,6 +31,5 @@ Aquí algunos de mis proyectos más destacados:
 
 ## Conecta Conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/brandon094/)
-- [Twitter](https://twitter.com/brandon094)
+- [LinkedIn](https://www.linkedin.com/in/brandondaza/)
 - [Sitio Web Personal](https://brandon094.dev)
