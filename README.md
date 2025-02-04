@@ -1,35 +1,62 @@
-# Hola, soy Brandon 👋
+# ¡Hola, soy Brandon! 👋
+**Visitas al perfil**
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=brandon094&color=blue)
+## 👨‍💻 Sobre Mí
+Soy un desarrollador de software apasionado por la tecnología, con un enfoque especial en el desarrollo web, el aprendizaje automático y los proyectos de código abierto. Me encanta resolver problemas complejos y aprender nuevas tecnologías para mejorar mis habilidades.
 
-## Sobre Mí
+🌱 **Actualmente aprendiendo**: Aprendizaje Automático y Computación en la Nube.
 
-Soy un apasionado desarrollador de software con un gran interés en el desarrollo web, el aprendizaje automático y las contribuciones de código abierto. Disfruto resolviendo problemas complejos y aprendiendo continuamente nuevas tecnologías.
+👯 **Busco colaborar en**: Proyectos de código abierto que impacten positivamente en la comunidad.
 
-- 🌱 Actualmente estoy aprendiendo **Aprendizaje Automático** y **Computación en la Nube**.
-- 👯 Estoy buscando colaborar en **Proyectos de Código Abierto**.
-- 🤔 Busco ayuda con proyectos de **Aprendizaje Profundo**.
-- 💬 Pregúntame sobre **JavaScript, Python y Desarrollo Web**.
-- 📫 Cómo contactarme: [dazace94@gmail.com](mailto:dazace94@gmail.com)
-- 😄 Pronombres: Él
-- ⚡ Dato curioso: Me encanta el senderismo y la fotografía.
+🤔 **Necesito ayuda con**: Proyectos de Aprendizaje Profundo y optimización de algoritmos.
 
-## Estadísticas de GitHub
+💬 **Pregúntame sobre**: JavaScript, Python, Desarrollo Web y buenas prácticas de programación.
 
-![Estadísticas de GitHub de Brandon](https://github-readme-stats.vercel.app/api?username=brandon094&show_icons=true&theme=radical)
+📫 **Cómo contactarme**: dazace94@gmail.com | [LinkedIn](https://www.linkedin.com/in/tu-perfil)
 
-## Lenguajes Principales
+😄 **Pronombres**: Él.
 
-![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon094&layout=compact&theme=radical)
+⚡ **Dato curioso**: Amo el senderismo, la fotografía y la música electrónica.
 
-## Proyectos
+## 🚀 Habilidades Técnicas
 
-Aquí algunos de mis proyectos más destacados:
+### Lenguajes y Herramientas
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- React
+- Node.js
+- Git
+- Docker
 
-1. [Simplify-Biz](https://github.com/Brandon094/Simplify-Biz.git) - Simplify Biz es un software de gestión empresarial que facilita la administración de usuarios, productos, ventas e informes.
-2. [Streaming-Ya](https://github.com/brandon094/Streaming-Ya) - Este repositorio ofrece un sistema que agiliza la compra de cuentas de streaming. Permite seleccionar la suscripción deseada, generar un mensaje para el proveedor por WhatsApp y gestionar el pago tras recibir las opciones. Simplifica la comunicación y acelera el proceso de adquisición.
+### Bases de Datos
+- MySQL
+- MongoDB
 
-## Conecta Conmigo
+### Herramientas de Desarrollo
+- Visual Studio Code
+- GitHub
 
-- [LinkedIn](https://www.linkedin.com/in/brandondaza/)
-- [Sitio Web Personal](https://brandon094.dev)
+## 📊 Estadísticas de GitHub
+Estadísticas de GitHub
+
+### Lenguajes más usados
+
+## 🌟 Proyectos Destacados
+
+1. **Simplify-Biz**  
+   Simplify-Biz es un software de gestión empresarial que facilita la administración de usuarios, productos, ventas e informes. Diseñado para optimizar procesos y mejorar la productividad.
+
+2. **Streaming-Ya**  
+   Streaming-Ya es un sistema que agiliza la compra de cuentas de streaming. Permite seleccionar suscripciones, generar mensajes para proveedores y gestionar pagos de manera eficiente.
+
+## 🌐 Conéctate Conmigo
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [Sitio Web Personal](https://www.tusitioweb.com)
+- **Correo Electrónico**: dazace94@gmail.com
+
+## 📌 Dato Curioso
+Cuando no estoy programando, me puedes encontrar explorando montañas con mi cámara 📸 o disfrutando de música electrónica 🎧. ¡La vida es un equilibrio entre código y aventuras!
+
+¡Gracias por visitar mi perfil! 😄
