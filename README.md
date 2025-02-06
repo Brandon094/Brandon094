@@ -4,11 +4,11 @@
 
 ---
 
-## Sobre Mí
+## Sobre Mí 👋
 
-Soy un desarrollador de software con una fuerte pasión por la tecnología y la innovación. Mi enfoque principal es el desarrollo de aplicaciones web y de escritorio, aunque también tengo experiencia en áreas como el aprendizaje automático y la computación en la nube.
+¡Hola! Soy **Brandon**, un desarrollador de software con una fuerte pasión por la tecnología y la innovación. Mi enfoque principal es el desarrollo de aplicaciones web y de escritorio, aunque también tengo experiencia en áreas como el aprendizaje automático y la computación en la nube.
 
-- 🌱 **Actualmente en proceso de aprendizaje**: Aprendizaje Automático y Computación en la Nube.
+- 🌱 **Actualmente en proceso de aprendizaje**: Desarrollo de aplicaciones móviles con React Native, arquitecturas de microservicios y nuevas tecnologías en inteligencia artificial.
 - 👯 **Interesado en colaborar en**: Proyectos de código abierto que tengan un impacto positivo en la comunidad.
 - 🤔 **Busco ayuda con**: Proyectos de Aprendizaje Profundo y optimización de algoritmos.
 - 💬 **Puedo ayudarte con**: JavaScript, Python, Desarrollo Web y buenas prácticas de programación.
@@ -17,7 +17,7 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y la 
 
 ---
 
-## Habilidades Técnicas
+## Habilidades Técnicas 🛠️
 
 ### Lenguajes y Herramientas
 
@@ -30,23 +30,30 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y la 
 - **Git** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 - **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 - **Java** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+- **C#** ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
 ### Bases de Datos
 
 - **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 - **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+- **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### Herramientas de Desarrollo
+### Cloud Computing
 
-- **Visual Studio Code** ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- **NetBeans** ![NetBeans](https://img.shields.io/badge/NetBeans-1E8CBE?logo=netbeans&logoColor=white)
-- **Android Studio** ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
-- **DB Browser** ![DB Browser](https://img.shields.io/badge/DB_Browser-2C3E50?logo=database&logoColor=white)
+- **AWS** ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+- **Google Cloud Platform** ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+- **Azure** ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+
+### Machine Learning
+
+- **TensorFlow** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+- **Scikit-learn** ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+- **Pandas** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+- **NumPy** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 ---
 
-## Proyectos Destacados
+## Proyectos Destacados 🚀
 
 ### 1. **Simplify-Biz**  
 Simplify-Biz es una solución de gestión empresarial diseñada para pequeñas y medianas empresas. Facilita la administración de usuarios, productos, ventas e informes, mejorando la productividad y optimizando procesos.  
@@ -62,15 +69,15 @@ Trasnporte-Nataga es una aplicación que mejora la experiencia de los pasajeros 
 
 ---
 
-## Conéctate Conmigo
+## Conéctate Conmigo 📫
 
 - [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
 - **Correo Electrónico**: [dazace94@gmail.com](mailto:dazace94@gmail.com)  
-- **Sitio Web Personal**: [www.tusitioweb.com](https://www.tusitioweb.com)  
+- **Sitio Web Personal**: [www.tusitioweb.com](https://www.tusitioweb.com)
 
 ---
 
-## Estadísticas de GitHub
+## Estadísticas de GitHub 📊
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brandon094&show_icons=true&theme=default)](https://github.com/Brandon094)
 
@@ -80,10 +87,10 @@ Trasnporte-Nataga es una aplicación que mejora la experiencia de los pasajeros 
 
 ---
 
-## Dato Curioso
+## Dato Curioso ⚡
 
 Cuando no estoy programando, me encontrarás explorando nuevas montañas con mi cámara 📸 o disfrutando de buena música electrónica 🎧. Siempre busco un equilibrio entre mis proyectos y mis pasiones.
 
 ---
 
-¡Gracias por visitar mi perfil! 😄
+⭐️ From [Brandon094](https://github.com/Brandon094)
