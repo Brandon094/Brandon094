@@ -14,44 +14,22 @@ Mis proyectos están enfocados en la gestión empresarial, optimización de proc
 - 📱 **Levantando requerimientos para:** Una app móvil para mejorar la ruta de transporte Natagá - La Plata.
 - 🌱 **Aprendiendo:** Desarrollo móvil con Android Studio y arquitectura de software escalable.
 - 👯 **Interesado en colaborar en:** Proyectos de gestión empresarial y optimización de software.
-- 💬 **Puedo ayudarte con:** Java, SQLite, gestión de bases de datos y desarrollo de software empresarial.
+- 💬 **Puedo ayudarte con:** Java, Pyhton, SQLite.
 - 📫 **Contacto:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dazace94@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandondaza)
 - ⚡ **Curiosidad:** Me apasiona el mundo de los videojuegos y la personalización de consolas.
 
 ---
 
-## Habilidades Técnicas 🛠️
+## 🛠️ Habilidades Técnicas  
 
-### 🚀 Lenguajes de Programación
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) - **Avanzado**
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) - **Intermedio**
-- ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) - **Avanzado**
-- ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) - **Básico**
+| 🌟 Categoría        | 🚀 Tecnologías / Herramientas                                                                                          | 📊 Nivel        |
+|--------------------|--------------------------------------------------------------------------------------------------------------------|----------------|
+| **Lenguajes**     | <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="25"> **Java**  <br> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png" width="25"> **Python**  <br> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="25"> **JavaScript**  <br> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="25"> **C#**  | **Avanzado - Básico** |
+| **Frameworks**    | <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png" width="25"> **React**  <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="25"> **Node.js**  <br> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="25"> **Bootstrap**  <br> <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png" width="25"> **Vue.js**  | **Intermedio - Básico** |
+| **Bases de Datos** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="25"> **MySQL**  <br> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="25"> **SQLite**  <br> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="25"> **MongoDB**  <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="25"> **PostgreSQL**  | **Avanzado - Básico** |
+| **Cloud Computing** | <img src="https://w7.pngwing.com/pngs/555/220/png-transparent-aws-hd-logo.png" width="25"> **AWS**  <br> <img src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-platform-cloud-computing-bigquery-google-storage-png-728x468.jpg" width="25"> **Google Cloud**  <br> <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="25"> **Azure**  | **Básico** |
+| **Herramientas**   | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25"> **Git**  <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="25"> **Docker**  <br> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="25"> **NumPy**  <br> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="25"> **Pandas**  | **Intermedio** |
 
-### 📚 Frameworks y Librerías
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) - **Intermedio**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white) - **Intermedio**
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) - **Básico**
-- ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white) - **Básico**
-
-### 🛢️ Bases de Datos
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) - **Avanzado**
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) - **Intermedio**
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) - **Básico**
-
-### ☁️ Cloud Computing
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) - **Básico**
-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) - **Básico**
-- ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white) - **Básico**
-
-### 🛠️ Herramientas de Desarrollo
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) - **Intermedio**
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) - **Intermedio**
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) - **Avanzado**
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) - **Intermedio**
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) - **Intermedio**
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) - **Intermedio**
 
 ---
 
