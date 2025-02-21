@@ -10,8 +10,7 @@
 
 Mis proyectos están enfocados en la gestión empresarial, optimización de procesos y herramientas tecnológicas para mejorar la productividad.
 
-- 🚀 **Actualmente trabajando en:** [Simplify Biz](https://github.com/Brandon094/simplify-biz), una aplicación de gestión empresarial integral.
-- 📱 **Levantando requerimientos para:** Una app móvil para mejorar la ruta de transporte Natagá - La Plata.
+- 🚀 **Actualmente trabajando en:** [Trasnporte Nataga --> La plata](https://github.com/Brandon094/Trasnsporte-Nataga---La-PLata), una aplicación de gestión de rutas de trasporte publico.
 - 🌱 **Aprendiendo:** Desarrollo móvil con Android Studio y arquitectura de software escalable.
 - 👯 **Interesado en colaborar en:** Proyectos de gestión empresarial y optimización de software.
 - 💬 **Puedo ayudarte con:** Java, Pyhton, SQLite.
