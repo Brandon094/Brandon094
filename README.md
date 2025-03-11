@@ -131,28 +131,28 @@
 
 <div align="center">
   <a href="https://github.com/Brandon094/Abcdario-y-numeros-bayron">
-    <img src="https://img.shields.io/badge/Aprende con sonic-blue?style=for-the-badge&logo=github" alt="ZL_Solución_Integral">
+    <img src="https://img.shields.io/badge/Aprende con sonic-blue?style=for-the-badge&logo=github" alt="Aprende con sonic">
   </a>  
  
-  <a href="https://github.com/Brandon094/SimplifyBiz">
-    <img src="https://img.shields.io/badge/Simplify_Biz-green?style=for-the-badge&logo=github" alt="Simplify Biz">
+  <a href="https://github.com/Brandon094/Simplify-Biz">
+    <img src="https://img.shields.io/badge/Simplify Biz-green?style=for-the-badge&logo=github" alt="Simplify Biz">
   </a>
   
    <a href="https://github.com/Brandon094/Simplify-Biz-Website">
-    <img src="https://img.shields.io/badge/Simplify_Biz-green?style=for-the-badge&logo=github" alt="Simplify Biz">
+    <img src="https://img.shields.io/badge/Simplify Biz-green?style=for-the-badge&logo=github" alt="Simplify Biz Website">
   </a>
   
   <a href="https://github.com/Brandon094/Streaming-Ya">
-    <img src="https://img.shields.io/badge/Streamig Ya-blue?style=for-the-badge&logo=github" alt="Simplify Biz">
+    <img src="https://img.shields.io/badge/Streamig Ya-blue?style=for-the-badge&logo=github" alt="StreamingYa">
   </a>
   
   <a href="https://github.com/Brandon094/Trasnporte-Nataga---La-Plata">
-    <img src="https://img.shields.io/badge/RutaGo-red?style=for-the-badge&logo=github" alt="Simplify Biz">
+    <img src="https://img.shields.io/badge/RutaGo-red?style=for-the-badge&logo=github" alt="RutaGo">
   </a>
 
 ###
 
-<h2 align="left">Estadisticas de GitHub</h2>
+<h2 align="left">📊 Estadísticas de GitHub</h2>
 
 ###
 
