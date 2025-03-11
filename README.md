@@ -1,98 +1,167 @@
-# Brandon Daza - Desarrollador de Software 👨‍💻
+<br clear="both">
 
-[![Vistas](https://komarev.com/ghpvc/?username=Brandon094&style=flat-square&color=green&label=Visitas)](https://github.com/Brandon094)
+<h1 align="center">Brandon Daza - Desarrollador de Software 👨‍💻</h1>
 
----
+###
 
-## Sobre Mí 👋
+<div align="center">
+  <img height="150" src="https://github.com/Brandon094/cv/blob/main/brandon.jpeg"  />
+</div>
 
-¡Hola! Soy **Brandon**, un desarrollador de software con una fuerte pasión por la tecnología y la innovación. Mi enfoque principal es el desarrollo de aplicaciones de escritorio en **Java con Swing** y bases de datos **SQLite**. También tengo experiencia en desarrollo web y aplicaciones móviles.
+###
 
-Mis proyectos están enfocados en la gestión empresarial, optimización de procesos y herramientas tecnológicas para mejorar la productividad.
+<br clear="both">
 
-- 🚀 **Actualmente trabajando en:** [Trasnporte Nataga --> La plata](https://github.com/Brandon094/Trasnsporte-Nataga---La-PLata), una aplicación de gestión de rutas de trasporte publico.
-- 🌱 **Aprendiendo:** Desarrollo móvil con Android Studio y arquitectura de software escalable.
-- 👯 **Interesado en colaborar en:** Proyectos de gestión empresarial y optimización de software.
-- 💬 **Puedo ayudarte con:** Java, Pyhton, SQLite.
-- 📫 **Contacto:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dazace94@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandondaza)
-- ⚡ **Curiosidad:** Me apasiona el mundo de los videojuegos y la personalización de consolas.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Brandon094/count.svg?"  />
+</div>
 
----
+###
 
-## 🛠️ Habilidades Técnicas  
+<br clear="both">
 
-| 🌟 Categoría        | 🚀 Tecnologías / Herramientas                                                                                          | 📊 Nivel        |
-|--------------------|--------------------------------------------------------------------------------------------------------------------|----------------|
-| **Lenguajes**     | <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="25"> **Java**  <br> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png" width="25"> **Python**  <br> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="25"> **JavaScript**  <br> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="25"> **C#**  | **Avanzado - Básico** |
-| **Frameworks**    | <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png" width="25"> **React**  <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="25"> **Node.js**  <br> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="25"> **Bootstrap**  <br> <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png" width="25"> **Vue.js**  | **Intermedio - Básico** |
-| **Bases de Datos** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="25"> **MySQL**  <br> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="25"> **SQLite**  <br> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="25"> **MongoDB**  <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="25"> **PostgreSQL**  | **Avanzado - Básico** |
-| **Cloud Computing** | <img src="https://w7.pngwing.com/pngs/555/220/png-transparent-aws-hd-logo.png" width="25"> **AWS**  <br> <img src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-platform-cloud-computing-bigquery-google-storage-png-728x468.jpg" width="25"> **Google Cloud**  <br> <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="25"> **Azure**  | **Básico** |
-| **Herramientas**   | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25"> **Git**  <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="25"> **Docker**  <br> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="25"> **NumPy**  <br> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="25"> **Pandas**  | **Intermedio** |
+<h2 align="left">Sobre Mí 👋</h2>
 
+###
 
----
+<br clear="both">
 
-## Proyectos Destacados 🚀
+<p align="left">¡Hola! Soy Brandon, un desarrollador de software apasionado por la tecnología y la creación de soluciones innovadoras. Me especializo en aplicaciones de escritorio con Java y SQLite, además de desarrollo web y móvil.</p>
 
-### 1. [![Simplify-Biz](https://img.shields.io/badge/Simplify--Biz-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/Brandon094/simplify-biz)
-Simplify-Biz es una solución integral de gestión empresarial diseñada específicamente para pequeñas y medianas empresas. Con esta herramienta, puedes optimizar la gestión de usuarios, productos, ventas e informes de manera rápida y eficiente, lo que facilita la toma de decisiones y mejora la productividad.
+###
 
-**Resultados**:  
-- Reducción del 30% en el tiempo de gestión de inventarios.  
-- Aumento del 20% en la eficiencia operativa y en la precisión de los informes.  
-- Mejora significativa en la administración de recursos y control de ventas.
+<h3 align="left">Stack web</h3>
 
-Descubre más desde la pagina web oficial aquí: [Simplify-Biz](https://brandon094.github.io/Simplify-Biz/)
+###
 
- <img src="https://github.com/user-attachments/assets/ef8fbbbb-475c-4f40-9359-fb5f62dcc121" alt="Simplify-Biz" width="400"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
 
-### 2. [![Streaming-Ya](https://img.shields.io/badge/Streaming--Ya-FF5722?style=for-the-badge&logo=Twitch&logoColor=white)](https://brandon094.github.io/Streaming-Ya/)
-Streaming-Ya es una plataforma que permite a los usuarios gestionar sus suscripciones de streaming de manera eficiente, incluyendo la generación de mensajes automáticos para proveedores y la gestión de pagos.  
+###
 
-**Resultados**:  
-- Reducción del 30% en el tiempo de gestión de suscripciones.
-- Mejora del 20% en la eficiencia de pagos y la comunicación con proveedores.  
-- Optimización del 25% en la organización de las suscripciones.
+<h3 align="left">Stack Desktop</h3>
 
-Puedes ver más detalles y probar la plataforma aquí: [Streaming-Ya](https://brandon094.github.io/Streaming-Ya/)
+###
 
- <img src="https://github.com/user-attachments/assets/ee2fdf51-aef7-42c9-a742-166cfc3ce8ea" alt="Streaming ya" width="400"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
 
+###
 
-### 3. [![Trasnporte-Nataga](https://img.shields.io/badge/Trasnporte--Nataga-03A9F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/Brandon094/trasnporte-nataga)
-Trasnporte-Nataga es una aplicación que mejora la experiencia de los pasajeros y conductores en la ruta Natagá - La Plata. Los usuarios pueden consultar horarios, reservar asientos y realizar pagos en línea, mientras los conductores gestionan rutas y reservas.  
- <img src="https://github.com/user-attachments/assets/" alt="Trasnporte nataga" width="300"/>
+<h3 align="left">Stack Movil</h3>
 
----
+###
 
-## Conéctate Conmigo 📫
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
-Interesado en colaborar en un proyecto o tienes alguna pregunta? ¡No dudes en contactarme! Estoy siempre abierto a nuevas oportunidades y colaboraciones.
+###
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dazace94@gmail.com)
-- [![Sitio Web](https://img.shields.io/badge/Sitio%20Web-4CAF50?logo=about.me&logoColor=white)](https://www.tusitioweb.com)
-- [![Teléfono](https://img.shields.io/badge/Teléfono-25D366?logo=phone&logoColor=white)](tel:+573222824941)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573222824941)
+<h3 align="left">Stack Productividad</h3>
 
----
+###
 
-## Estadísticas de GitHub 📊
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brandon094&show_icons=true&theme=radical)](https://github.com/Brandon094)
+###
 
-### Lenguajes más usados
+<h2 align="left">📢 Puedes encontrarme en las siguientes plataformas</h2>
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon094&layout=compact&theme=radical)](https://github.com/Brandon094)
+<br clear="both">
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/brandondaza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/brandon.daza1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/573222824941" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/randal094/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/757650215951138916/757650215951138918" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+  </a>
+  <a href="mailto:dazace94@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Randall094" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/randall_94_games" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="30" alt="twitch logo"  />
+  </a>
+</div>
 
-## Dato Curioso ⚡
+###
 
-Cuando no estoy programando, me encontrarás explorando nuevas montañas con mi cámara 📸, practicando downhill en mi bici 🚵‍♂️, o disfrutando de buena música electrónica 🎧. Soy un apasionado por la naturaleza y la tecnología, y siempre busco un equilibrio entre mis proyectos y mis pasiones.
+<h2 align="left">🚀 Proyectos Destacados</h2>
 
----
+###
 
-> "La innovación distingue a un líder de un seguidor." – Steve Jobs
+<div align="center">
+  <a href="https://github.com/Brandon094/Abcdario-y-numeros-bayron">
+    <img src="https://img.shields.io/badge/Aprende con sonic-blue?style=for-the-badge&logo=github" alt="ZL_Solución_Integral">
+  </a>  
+ 
+  <a href="https://github.com/Brandon094/SimplifyBiz">
+    <img src="https://img.shields.io/badge/Simplify_Biz-green?style=for-the-badge&logo=github" alt="Simplify Biz">
+  </a>
+  
+   <a href="https://github.com/Brandon094/Simplify-Biz-Website">
+    <img src="https://img.shields.io/badge/Simplify_Biz-green?style=for-the-badge&logo=github" alt="Simplify Biz">
+  </a>
+  
+  <a href="https://github.com/Brandon094/Streaming-Ya">
+    <img src="https://img.shields.io/badge/Streamig Ya-blue?style=for-the-badge&logo=github" alt="Simplify Biz">
+  </a>
+  
+  <a href="https://github.com/Brandon094/Trasnporte-Nataga---La-Plata">
+    <img src="https://img.shields.io/badge/RutaGo-red?style=for-the-badge&logo=github" alt="Simplify Biz">
+  </a>
 
-⭐️ From [Brandon094](https://github.com/Brandon094)
+###
+
+<h2 align="left">Estadisticas de GitHub</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon094&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandon094&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=synthwave&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon094&radius=16&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
