@@ -1,142 +1,170 @@
-<!-- Banner Superior 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4d2Z4b2h1eGJqYjV0dWJxM3FhY2d6Y2V6eGZ1bGZ1d2VxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"/>
-</div>
--->
-<h1 align="center">👨‍💻 Brandon Daza | Desarrollador Full Stack</h1>
-
-<!-- Frase Motivacional -->
-<div align="center">
-  <h3>✨ "Transformo ideas en soluciones digitales que generan impacto" ✨</h3>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jyamptd3dqeGRwc3hpOWttMWY1ZmVrazd4bGt1aG1hMTg0c2c5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100%" height="400" style="object-fit: cover;" alt="Banner"/>
 </div>
 
-###
-
-<div align="center">
-  <img height="150" src="https://github.com/Brandon094/cv/blob/main/brandon.jpeg" alt="Brandon Daza" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brandon094&label=Profile%20views&color=0e75b6&style=flat" alt="Brandon094" />
-</div>
-
-###
-
-<h2 align="center">🚀 Sobre Mí</h2>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30"/>
+  Hola, Soy Brandon Daza
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30"/>
+</h1>
 
 <p align="center">
-Desarrollador de software con experiencia en creación de soluciones digitales innovadoras. 
-Especializado en aplicaciones de escritorio (Java/Python), desarrollo web y móvil. 
-Apasionado por aprender nuevas tecnologías y crear productos que impacten positivamente.
+  <b>Desarrollador Full Stack</b> • Transformando ideas en soluciones digitales
 </p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Brandon094?style=flat-square&logo=github&label=Followers&color=blue" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Brandon094&style=flat-square&label=Visitas&color=green" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Brandon094?style=flat-square&label=Stars&color=yellow" alt="GitHub Stars"/>
+</p>
 
-<h2 align="center">🛠 Stack Tecnológico</h2>
+---
 
-<!-- Stacks en horizontal -->
-<div align="center">
-  <table>
-    <tr>
-      <th>Web</th>
-      <th>Desktop</th>
-      <th>Móvil</th>
-      <th>Herramientas</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github.com/Brandon094/cv/blob/main/brandon.jpeg" alt="Brandon Daza" width="150" style="border-radius: 50%;"/>
+</p>
 
-<!-- Tabla de Habilidades Niveladas COMPLETA -->
-<div align="center">
-  <h3>📊 Nivel de Habilidades</h3>
-  <table>
-    <tr>
-      <td>Java ⭐⭐⭐</td>
-      <td>Python ⭐⭐⭐⭐</td>
-      <td>JavaScript ⭐⭐⭐</td>
-      <td>HTML5 ⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>CSS3 ⭐⭐⭐⭐</td>
-      <td>Flask ⭐⭐⭐</td>
-      <td>Android ⭐⭐⭐⭐</td>
-      <td>Firebase ⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>SQLite ⭐⭐⭐⭐</td>
-      <td>Git ⭐⭐⭐</td>
-      <td>GitHub ⭐⭐⭐</td>
-      <td>Trello ⭐⭐⭐⭐</td>
-    </tr>
-  </table>
-</div>
+### 👨‍💻 Sobre Mí
 
-###
+Desarrollador apasionado con experiencia en crear soluciones digitales innovadoras. Me especializo en aplicaciones de escritorio, desarrollo web y móvil, siempre buscando aprender nuevas tecnologías y crear productos que generen impacto positivo.
 
-<h2 align="center">🌟 Proyectos Destacados</h2>
+<table>
+<tr>
+<td width="33%" align="center">
+<b>🎯 Misión</b><br/>
+<sub>Crear software que resuelva problemas reales y mejore la experiencia del usuario</sub>
+</td>
+<td width="33%" align="center">
+<b>💡 Pasión</b><br/>
+<sub>Aprender constantemente y enfrentar nuevos desafíos tecnológicos</sub>
+</td>
+<td width="33%" align="center">
+<b>🚀 Enfoque</b><br/>
+<sub>Código limpio, buenas prácticas y soluciones escalables</sub>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <a href="https://github.com/Brandon094/Simplify-Biz">
-    <img src="https://img.shields.io/badge/🚀_Simplify_Biz_(Gestión)-green?style=for-the-badge" alt="Simplify Biz" />
+---
+
+### 🛠️ Stack Tecnológico
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**📱 Desarrollo Móvil**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 Desarrollo Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**💻 Desarrollo Desktop**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+**🔧 Herramientas y Tecnologías**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/48/business.png" width="50" alt="Business"/><br/>
+<b>Simplify Biz</b><br/>
+<sub>Sistema de gestión empresarial completo y eficiente</sub><br/><br/>
+<a href="https://github.com/Brandon094/Simplify-Biz">
+<img src="https://img.shields.io/badge/Ver_Repo-00ff88?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+</a>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/48/video.png" width="50" alt="Streaming"/><br/>
+<b>Streaming Ya</b><br/>
+<sub>Plataforma de venta de productos de entretenimiento</sub><br/><br/>
+<a href="https://github.com/Brandon094/Streaming-Ya">
+<img src="https://img.shields.io/badge/Ver_Repo-0099ff?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+</a>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/48/bus.png" width="50" alt="Bus"/><br/>
+<b>RutaGo</b><br/>
+<sub>Sistema de gestión de transporte público inteligente</sub><br/><br/>
+<a href="https://github.com/Brandon094/Trasnporte-Nataga---La-Plata">
+<img src="https://img.shields.io/badge/Ver_Repo-ff4444?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brandon094&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon094&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon094&theme=radical&hide_border=true" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon094&theme=react-dark&hide_border=true&area=true&height=300" alt="Activity Graph"/>
+</p>
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brandondaza">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Brandon094/Streaming-Ya">
-    <img src="https://img.shields.io/badge/🎬_Streaming_Ya(Venta de productos de entreteniemiento)-blue?style=for-the-badge" alt="StreamingYa" />
+  <a href="https://wa.me/573222824941">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://github.com/Brandon094/Trasnporte-Nataga---La-Plata">
-    <img src="https://img.shields.io/badge/🚌_RutaGo(Trasporte publico)-red?style=for-the-badge" alt="RutaGo" />
+  <a href="mailto:dazace94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-###
-
-<h2 align="center">📊 Estadísticas de GitHub</h2>
-
-<div align="center" style="margin-bottom: 25px;">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Brandon094&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&margin-w=15" alt="Stats" style="margin-right: 20px;"/> 
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon094&layout=compact&theme=dracula&hide_border=true&langs_count=6&margin-w=15" alt="Langs" style="margin-left: 20px;"/>
-</div>
-
-<div align="center" style="margin-top: 25px;">
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon094&theme=dracula&hide_border=true&margin-w=15" alt="Streak" style="margin-right: 20px;"/>
-  <img height="185" src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon094&theme=dracula&hide_border=true&area=true&margin-w=15" alt="Activity" style="margin-left: 20px;"/>
-</div>
-
-###
-
-<h2 align="center">📲 Mis Redes</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/brandondaza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%40brandondaza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/Brandon094">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://wa.me/573222824941" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-+57 322 2824941-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:dazace94@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dazace94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+</p>
+
+---
+
+<p align="center">
+  <sub><i>"El código no es solo instrucciones para una máquina, es arte que resuelve problemas"</i></sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
