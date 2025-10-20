@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jyamptd3dqeGRwc3hpOWttMWY1ZmVrazd4bGt1aG1hMTg0c2c5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100%" height="400" style="object-fit: cover;" alt="Banner"/>
+  <img src="/img/chopbanner.gif" width="100%" height="400" style="object-fit: cover;" alt="Banner"/>
 </div>
 
 <h1 align="center">
