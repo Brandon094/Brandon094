@@ -1,125 +1,217 @@
 <div align="center">
-  <img src="/img/gif.mp4" width="100%" height="400" style="object-fit: cover;" alt="Banner"/>
+  <img src="/img/chopbanner.gif" width="100%" height="400" style="object-fit: cover;" alt="Banner Cyberpunk | Falla Digital"/>
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30"/>
-  Hola, Soy Brandon Daza
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30"/>
+  <img src="/img/chopbanner.gif" width="30"/>
+  [ USUARIO: Brandon Daza // STATUS: ONLINE ]
+  <img src="/img/chopbanner.gif" width="30"/>
 </h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack</b> • Transformando ideas en soluciones digitales
+  <span style="color: #FF00FF;"><b>// OPERATIVO FULL STACK //</b></span> • <span style="color: #00FFC0;">Transformando ideas en soluciones digitales en la red.</span>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Brandon094?style=flat-square&logo=github&label=Followers&color=blue" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Brandon094&style=flat-square&label=Visitas&color=green" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/Brandon094?style=flat-square&label=Stars&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/Brandon094?style=for-the-badge&logo=github&label=SEGUIDORES&color=FF00FF&logoColor=white" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Brandon094&style=for-the-badge&label=VISTAS_LOGGED&color=00FFC0&logo=eye&logoColor=black" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Brandon094?style=for-the-badge&logo=github&label=ESTRELLAS&color=F7DF1E&logoColor=black" alt="GitHub Stars"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Brandon094/cv/blob/main/brandon.jpeg" alt="Brandon Daza" width="150" style="border-radius: 50%;"/>
+  <img src="https://github.com/Brandon094/cv/blob/main/brandon.jpeg" alt="Brandon Daza" width="150" style="border-radius: 50%; border: 3px solid #00FFC0; box-shadow: 0 0 15px #00FFC0;"/>
 </p>
 
-### 👨‍💻 Sobre Mí
+### 👤 <span style="color: #FF00FF;">// PERFIL_OPERATIVO //</span>
 
-Desarrollador apasionado con experiencia en crear soluciones digitales innovadoras. Me especializo en aplicaciones de escritorio, desarrollo web y móvil, siempre buscando aprender nuevas tecnologías y crear productos que generen impacto positivo.
+<span style="color: #00FFC0;">> INICIALIZANDO BIO-DATA...</span><br/>
+<span style="color: #FFFFFF;">Desarrollador apasionado con experiencia en crear soluciones digitales innovadoras. Me especializo en aplicaciones de escritorio, desarrollo web y móvil, siempre buscando aprender nuevas tecnologías y crear productos que generen impacto positivo en el sistema.</span>
 
 <table>
 <tr>
-<td width="33%" align="center">
-<b>🎯 Misión</b><br/>
-<sub>Crear software que resuelva problemas reales y mejore la experiencia del usuario</sub>
+<td width="33%" align="center" style="border: 1px solid #00FFC0; padding: 15px; background: rgba(0, 255, 192, 0.1);">
+<span style="color: #00FFC0;"><b>🎯 DIRECTIVA_PRINCIPAL</b></span><br/>
+<sub style="color: #CCCCCC;">Crear software que resuelva problemas reales y mejore la experiencia del usuario</sub>
 </td>
-<td width="33%" align="center">
-<b>💡 Pasión</b><br/>
-<sub>Aprender constantemente y enfrentar nuevos desafíos tecnológicos</sub>
+<td width="33%" align="center" style="border: 1px solid #FF00FF; padding: 15px; background: rgba(255, 0, 255, 0.1);">
+<span style="color: #FF00FF;"><b>💡 UNIDAD_DE_PROCESO</b></span><br/>
+<sub style="color: #CCCCCC;">Aprender constantemente y enfrentar nuevos desafíos tecnológicos</sub>
 </td>
-<td width="33%" align="center">
-<b>🚀 Enfoque</b><br/>
-<sub>Código limpio, buenas prácticas y soluciones escalables</sub>
+<td width="33%" align="center" style="border: 1px solid #F7DF1E; padding: 15px; background: rgba(247, 223, 30, 0.1);">
+<span style="color: #F7DF1E;"><b>🚀 PROTOCOLO_DE_SISTEMA</b></span><br/>
+<sub style="color: #CCCCCC;">Código limpio, buenas prácticas y soluciones escalables</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ <span style="color: #00FFC0;">// ARSENAL_TECNOLOGICO //</span>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top" style="border: 1px solid #00FFC0; padding: 15px; background: rgba(0, 255, 192, 0.05);">
 
-**📱 Desarrollo Móvil**
+**📱 <span style="color: #00FFC0;">MOVIL</span>**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<div align="center">
+  
+![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</td>
-<td width="33%" valign="top">
-
-**🌐 Desarrollo Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</div>
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top" style="border: 1px solid #FF00FF; padding: 15px; background: rgba(255, 0, 255, 0.05);">
 
-**💻 Desarrollo Desktop**
+**🌐 <span style="color: #FF00FF;">FRONTEND</span>**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+</td>
+<td width="25%" valign="top" style="border: 1px solid #F7DF1E; padding: 15px; background: rgba(247, 223, 30, 0.05);">
+
+**⚙️ <span style="color: #F7DF1E;">BACKEND</span>**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+</td>
+<td width="25%" valign="top" style="border: 1px solid #FF6B6B; padding: 15px; background: rgba(255, 107, 107, 0.05);">
+
+**💻 <span style="color: #FF6B6B;">DESKTOP</span>**
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-**🔧 Herramientas y Tecnologías**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-### 🚀 Proyectos Destacados
+### 🗄️ <span style="color: #FF00FF;">// DATA_VAULTS //</span>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top" style="border: 1px solid #FF00FF; padding: 15px; background: rgba(255, 0, 255, 0.05);">
+
+**📊 <span style="color: #FF00FF;">BASES DE DATOS SQL</span>**
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top" style="border: 1px solid #00FFC0; padding: 15px; background: rgba(0, 255, 192, 0.05);">
+
+**🔥 <span style="color: #00FFC0;">BASES DE DATOS NoSQL</span>**
+
+<div align="center">
+
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+### 🎨 <span style="color: #F7DF1E;">// UI_MATRIX & DEV_TOOLS //</span>
+
+<table>
+<tr>
+<td width="33%" valign="top" style="border: 1px solid #F7DF1E; padding: 15px; background: rgba(247, 223, 30, 0.05);">
+
+**🎨 <span style="color: #F7DF1E;">DISENO & UI/UX</span>**
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+</td>
+<td width="33%" valign="top" style="border: 1px solid #00FFC0; padding: 15px; background: rgba(0, 255, 192, 0.05);">
+
+**🔧 <span style="color: #00FFC0;">HERRAMIENTAS DEV</span>**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+</td>
+<td width="33%" valign="top" style="border: 1px solid #FF6B6B; padding: 15px; background: rgba(255, 107, 107, 0.05);">
+
+**⚡ <span style="color: #FF6B6B;">IDEs & PLATAFORMAS</span>**
+
+<div align="center">
+
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 <span style="color: #00FFC0;">// PROGRAMAS_EJECUTADOS //</span>
+
+<table>
+<tr>
+<td width="33%" align="center" style="border: 1px solid #00FFC0; padding: 15px; background: rgba(0, 255, 192, 0.05);">
 <img src="https://img.icons8.com/fluency/48/business.png" width="50" alt="Business"/><br/>
-<b>Simplify Biz</b><br/>
-<sub>Sistema de gestión empresarial completo y eficiente</sub><br/><br/>
+<span style="color: #00FFC0;"><b>Simplify Biz</b></span><br/>
+<sub style="color: #CCCCCC;">Sistema de gestión empresarial completo y eficiente</sub><br/><br/>
 <a href="https://github.com/Brandon094/Simplify-Biz">
-<img src="https://img.shields.io/badge/Ver_Repo-00ff88?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+<img src="https://img.shields.io/badge/[EJECUTAR_PROGRAMA]-00FFC0?style=for-the-badge&logo=terminal&logoColor=black" alt="Repo"/>
 </a>
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="border: 1px solid #FF00FF; padding: 15px; background: rgba(255, 0, 255, 0.05);">
 <img src="https://img.icons8.com/fluency/48/video.png" width="50" alt="Streaming"/><br/>
-<b>Streaming Ya</b><br/>
-<sub>Plataforma de venta de productos de entretenimiento</sub><br/><br/>
+<span style="color: #FF00FF;"><b>Streaming Ya</b></span><br/>
+<sub style="color: #CCCCCC;">Plataforma de venta de productos de entretenimiento</sub><br/><br/>
 <a href="https://github.com/Brandon094/Streaming-Ya">
-<img src="https://img.shields.io/badge/Ver_Repo-0099ff?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+<img src="https://img.shields.io/badge/[EJECUTAR_PROGRAMA]-FF00FF?style=for-the-badge&logo=terminal&logoColor=white" alt="Repo"/>
 </a>
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="border: 1px solid #F7DF1E; padding: 15px; background: rgba(247, 223, 30, 0.05);">
 <img src="https://img.icons8.com/fluency/48/bus.png" width="50" alt="Bus"/><br/>
-<b>RutaGo</b><br/>
-<sub>Sistema de gestión de transporte público inteligente</sub><br/><br/>
+<span style="color: #F7DF1E;"><b>RutaGo</b></span><br/>
+<sub style="color: #CCCCCC;">Sistema de gestión de transporte público inteligente</sub><br/><br/>
 <a href="https://github.com/Brandon094/Trasnporte-Nataga---La-Plata">
-<img src="https://img.shields.io/badge/Ver_Repo-ff4444?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+<img src="https://img.shields.io/badge/[EJECUTAR_PROGRAMA]-F7DF1E?style=for-the-badge&logo=terminal&logoColor=black" alt="Repo"/>
 </a>
 </td>
 </tr>
@@ -127,7 +219,7 @@ Desarrollador apasionado con experiencia en crear soluciones digitales innovador
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 <span style="color: #FF00FF;">// REGISTRO_DE_ACTIVIDAD_DEL_SISTEMA //</span>
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brandon094&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
@@ -144,27 +236,29 @@ Desarrollador apasionado con experiencia en crear soluciones digitales innovador
 
 ---
 
-### 📫 Contacto
+### 📡 <span style="color: #00FFC0;">// CANAL_DE_TRANSMISION //</span>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandondaza">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/573222824941">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WHATSAPP-00FFC0?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp"/>
   </a>
   <a href="mailto:dazace94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Brandon094">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
+  <a href="https://porfolio-chop-code-solutions-brando.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-F7DF1E?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub><i>"El código no es solo instrucciones para una máquina, es arte que resuelve problemas"</i></sub>
+  <span style="color: #00FFC0;">
+    <sub><i>"El código es la interfaz entre el caos y el orden... una forma de arte en la matrix."</i></sub>
+  </span>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFC0&height=80&section=footer" width="100%"/>
