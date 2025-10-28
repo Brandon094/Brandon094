@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/img/chopbanner.gif" width="100%" height="400" style="object-fit: cover;" alt="Banner"/>
+  <img src="/img/gif.mp4" width="100%" height="400" style="object-fit: cover;" alt="Banner"/>
 </div>
 
 <h1 align="center">
