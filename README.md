@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Brandon094?style=flat-square\&logo=github\&color=0D47A1)
-![Stars](https://img.shields.io/github/stars/Brandon094?style=flat-square\&logo=github\&color=1976D2)
-![Profile Views](https://komarev.com/ghpvc/?username=Brandon094\&style=flat-square\&color=2196F3)
+![Followers](https://img.shields.io/github/followers/Brandon094?style=flat-square&logo=github&color=0D47A1)
+![Stars](https://img.shields.io/github/stars/Brandon094?style=flat-square&logo=github&color=1976D2)
+![Profile Views](https://komarev.com/ghpvc/?username=Brandon094&style=flat-square&color=2196F3)
 
 </div>
 
@@ -38,16 +38,16 @@ Actualmente construyo proyectos bajo mi marca personal **ChopCode Solutions**, e
 
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -64,33 +64,64 @@ Actualmente construyo proyectos bajo mi marca personal **ChopCode Solutions**, e
 
 ## 📌 Proyectos Destacados
 
-### 🚀 [RutaGo](https://github.com/Brandon094/Trasnporte-Nataga---La-Plata)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 RutaGo
 
 Aplicación para gestión de rutas intermunicipales y reservas.
 
+**Stack:**
+
 `Java` · `Android` · `Firebase`
 
-### 📦 [ServiCarga](https://github.com/Brandon094/Servicarga-Huila)
+🔗 [Repositorio](https://github.com/Brandon094/Trasnporte-Nataga---La-Plata)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📦 ServiCarga
 
 Plataforma para servicios de carga y acarreos.
 
+**Stack:**
+
 `Android` · `Firebase`
 
-### 🛒 [Simplify Biz](https://github.com/Brandon094/Simplify-Biz)
+🔗 [Repositorio](https://github.com/Brandon094/Servicarga-Huila)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛒 Simplify Biz
 
 Sistema para administración de ventas e inventarios.
 
+**Stack:**
+
 `Java` · `JavaFX` · `SQLite`
+
+🔗 [Repositorio](https://github.com/Brandon094/Simplify-Biz)
+
+</td>
+</tr>
+</table>
+
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://streak-stats.demolab.com?user=Brandon094&theme=dracula&hide_border=true)
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Brandon094&theme=github-dark-blue&hide_border=true" />
 
 </div>
+
+<br>
 
 ---
 
