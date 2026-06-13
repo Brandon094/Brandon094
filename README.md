@@ -22,32 +22,48 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador de software y estudiante de ADSO en el SENA, apasionado por crear soluciones digitales para transporte, logística y comercio local.
+Soy desarrollador de software y estudiante de ADSO en el SENA, apasionado por crear soluciones digitales que impulsen el transporte, la logística y el comercio local. 
 
-Actualmente construyo proyectos bajo mi marca personal **ChopCode Solutions**, enfocándome en desarrollar aplicaciones útiles, escalables y con una experiencia de usuario sencilla.
+A través de mi marca personal **ChopCode Solutions** —inspirada en la lealtad de mi perro, Chop— me enfoco en transformar problemas reales en aplicaciones escalables, eficientes y con una experiencia de usuario intuitiva.
 
-* 📱 Desarrollo de aplicaciones Android.
-* 🌐 Desarrollo Full Stack.
-* 🔥 Integración con Firebase.
-* ⚙️ Soluciones para negocios locales.
-* 📚 Aprendizaje continuo.
+* 📱 **Desarrollo Android Nativo:** Creación de aplicaciones móviles modernas (Kotlin + Compose) y tradicionales (Java + XML).
+* 🏗️ **Arquitectura de Software:** Implementación de patrones robustos como MVVM y principios de Clean Architecture.
+* 🌐 **Desarrollo Full Stack & Web:** Construcción de plataformas ágiles e integración con servicios en la nube.
+* ⚡ **Ecosistema Backend & BaaS:** Gestión de datos y autenticación en tiempo real con Firebase y Supabase.
 
 ---
 
 ## 🛠️ Tecnologías
 
-<div align="center">
+### Mobile & Desktop
+<div align="left">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+
+### Web & Backend (BaaS)
+<div align="left">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+### Herramientas & Bases de Datos
+<div align="left">
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-9B51E0?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 </div>
 
@@ -55,10 +71,10 @@ Actualmente construyo proyectos bajo mi marca personal **ChopCode Solutions**, e
 
 ## 🌱 Actualmente
 
-* 🚀 Mejorando **RutaGo**.
-* 📦 Desarrollando **ServiCarga**.
-* 💻 Fortaleciendo mis conocimientos en desarrollo Full Stack.
-* 🏗️ Construyendo la marca **ChopCode Solutions**.
+* 🚀 Construyendo **YÁYA** usando tecnologías de última generación en Android.
+* 📈 Optimizando **RutaGo** para mejorar la gestión de rutas intermunicipales.
+* 🛠️ Desarrollando soluciones a medida bajo el sello de **ChopCode Solutions**.
+* 🧠 Explorando automatización y entornos de desarrollo eficientes.
 
 ---
 
@@ -66,59 +82,76 @@ Actualmente construyo proyectos bajo mi marca personal **ChopCode Solutions**, e
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 📱 YÁYA (Mobile)
+
+Aplicación móvil moderna orientada a la contratación y gestión de servicios locales.
+
+**Stack:** `Kotlin` · `Jetpack Compose` · `Supabase` · `MVVM`
+
+🔗 [Ver Repositorio](https://github.com/Brandon094/Y-YA_Mobile)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚀 RutaGo
 
-Aplicación para gestión de rutas intermunicipales y reservas.
+Aplicación Android nativa para la gestión logística de rutas intermunicipales y reservas de asientos.
 
-**Stack:**
+**Stack:** `Java` · `Android SDK (XML)` · `Firebase` · `MVVM`
 
-`Java` · `Android` · `Firebase`
-
-🔗 [Repositorio](https://github.com/Brandon094/Trasnporte-Nataga---La-Plata)
+🔗 [Ver Repositorio](https://github.com/Brandon094/Trasnporte-Nataga---La-Plata)
 
 </td>
+</tr>
 
-<td width="33%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 📦 ServiCarga
 
-Plataforma para servicios de carga y acarreos.
+Plataforma digital para la conexión comunitaria y solicitud de servicios de carga y acarreos en la región.
 
-**Stack:**
+**Stack:** `HTML5` · `CSS3` · `JavaScript` · `Firebase`
 
-`Android` · `Firebase`
-
-🔗 [Repositorio](https://github.com/Brandon094/Servicarga-Huila)
+🔗 [Ver Repositorio](https://github.com/Brandon094/ServiCarga)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🛒 Simplify Biz
+### 💻 Simplify Biz
 
-Sistema para administración de ventas e inventarios.
+Software de escritorio ERP para la gestión empresarial, administración de inventarios, ventas y control de roles.
 
-**Stack:**
+**Stack:** `Java 17` · `Swing` · `SQLite`
 
-`Java` · `JavaFX` · `SQLite`
-
-🔗 [Repositorio](https://github.com/Brandon094/Simplify-Biz)
+🔗 [Ver Repositorio](https://github.com/Brandon094/Simplify-Biz)
 
 </td>
 </tr>
 </table>
-
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Brandon094&theme=github-dark-blue&hide_border=true" />
-
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon094&theme=github-dark-blue&layout=compact&hide_border=true&langs_count=6" height="170px" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Brandon094&theme=github-dark-blue&hide_border=true&show_icons=true" height="170px" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  <img width="75%" src="https://streak-stats.demolab.com?user=Brandon094&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <br>
@@ -151,7 +184,7 @@ Sistema para administración de ventas e inventarios.
 
 <div align="center">
 
-### 💙 Construyendo soluciones reales, una línea de código a la vez.
+### 🐾 Construyendo soluciones reales, una línea de código a la vez.
 
 </div>
 
